@@ -97,16 +97,7 @@ python evaluate.py
 
 ## 🗺️ Roadmap / Future Upgrades
 
-* **API Integration:** Wrap the LangGraph agent in a FastAPI server to expose a `/analyze` endpoint for frontend applications.
 * **Semantic Caching:** Implement a MongoDB query cache to bypass LLM generation for frequently asked questions, reducing latency and API costs.
 * **Query Expansion Node:** Add a translation step in LangGraph to convert emotional tenant complaints into dense legal vocabulary before vector search.
-
-```
-
-***
-
-This perfectly encapsulates the heavy engineering you have done without promising features that aren't in the codebase yet. 
-
-**Are you ready to commit this to GitHub, or is there anything else in the codebase you want to tidy up first?**
 
 ```
