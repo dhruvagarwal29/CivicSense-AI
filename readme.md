@@ -35,7 +35,7 @@ CivicSense AI is built as a cyclic graph (state machine) rather than a linear sc
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/civicsense-ai.git](https://github.com/yourusername/civicsense-ai.git)
+git clone [https://github.com/dhruvagarwal29/CivicSense-AI.git](https://github.com/dhruvagarwal29/CivicSense-AI.git)
 cd civicsense-ai
 
 ```
