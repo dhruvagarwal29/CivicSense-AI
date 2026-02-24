@@ -99,5 +99,3 @@ python evaluate.py
 
 * **Semantic Caching:** Implement a MongoDB query cache to bypass LLM generation for frequently asked questions, reducing latency and API costs.
 * **Query Expansion Node:** Add a translation step in LangGraph to convert emotional tenant complaints into dense legal vocabulary before vector search.
-
-```
