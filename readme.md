@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🏛️ CivicSense AI: Autonomous Legal Advocate for Tenants
 
 CivicSense AI is a production-grade Agentic RAG (Retrieval-Augmented Generation) system designed to democratize legal aid. It ingests the New York City Housing Maintenance Code and acts as an autonomous legal advocate—answering tenant questions, formulating legal action plans, and drafting mathematically verified demand letters.
